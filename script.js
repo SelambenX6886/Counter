@@ -1,5 +1,5 @@
 // Hedef tarihi ayarla (örnek olarak 1 ay sonrası)
-const targetDate = new Date('2025-06-21T10:00:00');
+const targetDate = new Date('2026-06-20T10:00:00');
 const tickSound = document.getElementById('tickSound');
 
 // Ses seviyesini ayarla
